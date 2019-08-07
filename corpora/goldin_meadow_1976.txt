@@ -1,0 +1,29 @@
+eat
+throw
+open
+close
+kiss
+drink
+blow
+drop
+huge
+pickup
+touch
+wash
+step on
+kick
+oush
+pull
+point to
+sit
+jump
+run
+stand
+lie down
+fall
+turn around
+dance
+fly
+cry
+smile
+crawl
